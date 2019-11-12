@@ -62,7 +62,7 @@ function Typing() {
 
     var typed8 = function () {
         new Typed('.line-8', {
-            strings: ["Processing request...^500"],
+            strings: ["Processing request^300.^300.^300.^500"],
             typeSpeed: 10,
             onComplete: redirect
         });
