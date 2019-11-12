@@ -1,0 +1,23 @@
+@import 'general.css';
+@import 'terminal.css';
+
+.site {
+    height: 100%;
+    width: 100%;
+}
+
+.site-wrapper {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+
+    height: 100%;
+    width: 100%;
+    background: #131313;
+}
+
+.typed-cursor {
+    color: #0c9134;
+    display: none;
+}
