@@ -72,7 +72,7 @@ function Typing() {
 }
 
 function redirect() {
-    //window.location.href = "https://ramceconcepcion.tk/about-me"
+    window.location.href = "https://ramceconcepcion.tk/about-me"
 }
 
 window.onload = function () {
