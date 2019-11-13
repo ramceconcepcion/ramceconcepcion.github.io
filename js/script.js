@@ -31,7 +31,7 @@ function Typing() {
                 "[#################..] 90% ^50",
                 "[###################] Done! ^200",
             ],
-            typeSpeed: 5,
+            typeSpeed: 0,
             onComplete: typed5
         });
     }
@@ -72,7 +72,7 @@ function Typing() {
 }
 
 function redirect() {
-    window.location.href = "https://ramceconcepcion.tk/about-me"
+    //window.location.href = "https://ramceconcepcion.tk/about-me"
 }
 
 window.onload = function () {
